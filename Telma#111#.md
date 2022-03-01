@@ -1,7 +1,6 @@
-// appel de prompt sync
+
 const prompt = require("prompt-sync")
 
-// Afficher le menu
 while(1==1){
     console.log("1.Versement")
     console.log("2.Retrait")
